@@ -1,0 +1,30 @@
+body {
+	background-color: #f0f0f0;
+	font-family: Arial, sans-serif;
+}
+
+#instructions {
+	color: #666;
+}
+
+#guess {
+	width: 30%;
+	height: 30px;
+	font-size: 24px;
+	padding: 10px;
+	border: 1px solid #ccc;
+}
+
+#submit {
+	background-color: #4CAF50;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#result {
+color: #666;
+	font-size: 24px;
+}
